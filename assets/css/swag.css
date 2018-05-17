@@ -1,54 +1,55 @@
 body{
 	margin:0px;
 }
-div.one{
+.one{
 	background-color:#bb3000;
 	padding:50px;
 	text-align:center;
+
 }
-div.one 
-h1{
-	font-family: 'El Rio Lobo';
-	color:orange;
+.one h1{
 	margin:0px;
 	padding:05px;
 	font-size:40px;
 }
-h3{
+.one h1,.three span{
+	font-family: 'El Rio Lobo';
+	color:orange;
+}
+
+.one h3{
 	margin:0px;
 	padding:10px;
 	color:white;	
 }
-div.two{
+.two{
 	background-color:steelblue;
 	padding:10px;
 }
-div.two 
-img{
+.two img{
 	margin:0px auto;display:block
 }
-div.three{
+.three{
 	text-align:right;
 	background-image:url(../images/cuzco2.jpg);
 	background-repeat:no-repeat;
 	height:600px;
 	background-size:cover
 }
-div.three 
-span{
-	font-family: 'El Rio Lobo';color:orange
-}
-p{
+.three p{
 	font-size:30px;
 	margin:0px;
 	color:white;
 }
-div.four 
-h2{
+
+.four span{
 	text-align:center;
 	margin:0px;
 	padding:10px;
 	color:black;
 	font-size:90px;
 	font-family: 'El Rio Lobo';
+}
+.four{
+	text-align: center;
 }
