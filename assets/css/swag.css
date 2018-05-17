@@ -20,14 +20,17 @@ body{
 .one h3{
 	margin:0px;
 	padding:10px;
-	color:white;	
+	color:white;
+	font-size:25px	
 }
 .two{
 	background-color:steelblue;
 	padding:10px;
 }
 .two img{
-	margin:0px auto;display:block
+	margin:0px auto;
+	display:block;
+	min-height:500px
 }
 .three{
 	text-align:right;
